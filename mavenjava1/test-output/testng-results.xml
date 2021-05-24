@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-24T12:19:17Z" name="Default suite" finished-at="2021-05-24T12:19:25Z" duration-ms="8472">
+    <groups>
+    </groups>
+    <test started-at="2021-05-24T12:19:17Z" name="Default test" finished-at="2021-05-24T12:19:25Z" duration-ms="8472">
+      <class name="quickclickacedemy1.mavenjava1.mail$Homepage">
+        <test-method signature="basePageNavigation()[pri:0, instance:quickclickacedemy1.mavenjava1.mail$Homepage@11392934]" started-at="2021-05-24T12:19:17Z" name="basePageNavigation" finished-at="2021-05-24T12:19:25Z" duration-ms="8424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- basePageNavigation -->
+      </class> <!-- quickclickacedemy1.mavenjava1.mail$Homepage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
