@@ -27,7 +27,7 @@ public class Newuser  extends Base{
     	   SignUp s= new SignUp(driver);
     	   s.getFirstName().sendKeys("Rajat");
     	   s.getLastName().sendKeys("Lohiya");
-    	   s.getEmail().sendKeys("Rajat3@mailinator.com");
+    	   s.getEmail().sendKeys("Rajat4@mailinator.com");
     	   s.getCompanyName().sendKeys("Etelligens");
     	   s.getPassword().sendKeys("1234567Aa");
     	   s.getConfirmPassword().sendKeys("1234567Aa");
