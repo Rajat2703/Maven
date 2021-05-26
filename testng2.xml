@@ -4,9 +4,8 @@
   <test thread-count="5" name="Test">
     <classes>
       <class name="quickclickacedemy1.mavenjava1.AppTest"/>
-      <class name="quickclickacedemy1.mavenjava1.RESTAPITest"/>
-      <class name="quickclickacedemy1.mavenjava1.AppiumTest"/>
-      <class name="quickclickacedemy1.mavenjava1.SeleniumTest"/>
+    
+     
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
