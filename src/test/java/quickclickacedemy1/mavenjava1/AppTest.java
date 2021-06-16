@@ -43,7 +43,7 @@ public class AppTest extends Base  //inheritance
 		robot.keyRelease(KeyEvent.VK_DOWN);
 		robot.keyRelease(KeyEvent.VK_ENTER);
 		robot.keyRelease(KeyEvent.VK_ENTER);
-		robot.keyPress(Ke);
+		
 		lo.save().click();
 	}
 	
